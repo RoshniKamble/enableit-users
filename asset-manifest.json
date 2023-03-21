@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/enableit-users/static/css/main.80766c2d.css",
+    "main.js": "/enableit-users/static/js/main.bcdcf56a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/enableit-users/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/enableit-users/index.html",
+    "main.80766c2d.css.map": "/enableit-users/static/css/main.80766c2d.css.map",
+    "main.bcdcf56a.js.map": "/enableit-users/static/js/main.bcdcf56a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/enableit-users/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80766c2d.css",
+    "static/js/main.bcdcf56a.js"
+  ]
+}
